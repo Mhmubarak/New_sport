@@ -1,0 +1,544 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+        /*header start*/
+        header {
+            padding: 5px;
+    
+        }
+        .menu ul li a{
+            margin: 0;
+            font-size: 20px;
+        }
+        /*banner start*/
+        .banner{
+            padding-top: 70px;
+            padding-bottom: 80px;
+        }
+        .left_content{
+            margin-top: 15px !important;
+            text-align: center;
+            margin: 0;
+        }
+        .left_h1 {
+            font-size: 70px;
+        }
+        .btn_common{
+            margin-top: 15px !important;
+        }
+        .b_img{
+            padding: 0 20px;
+        }
+        /*team start*/
+        .team {
+            padding-top: 60px;
+            padding-bottom: 60px;
+        }
+        .t_h1{
+            margin-bottom: 40px;
+        }
+         /*about start*/
+        .about{
+            padding-top: 60px;
+            padding-bottom: 50px;
+        }
+        .a_h1{
+            margin-bottom: 5px;
+        }
+        .a_p{
+        padding: 0;
+        }
+        .a_img {
+            margin: 0;
+         }
+        .t_btn{
+            margin-top: 20px;
+        }
+        /*complete start*/
+        .complete {
+        padding-top: 5px;
+        }
+        .c_img{
+            padding: 0;
+        }
+        .c_content {
+        margin-top: 50px;
+        text-align: center;
+        }
+        .c_h1 {
+        font-size: 50px;
+        }
+        .c_para{
+            padding: 0;
+            font-size: 25px;
+        }
+        /*training start*/
+        .training {
+        padding-top: 50px;
+        padding-bottom: 70px;
+        }
+        .tr_content {
+        margin-top: 35px;
+        text-align: center;
+    
+        }
+        .tr_h1 {
+        font-size: 60px;
+        }
+        .tr_p {
+        padding:0;
+        font-size: 25px;
+        
+        }
+        .tr_img {
+        padding: 0;
+        }
+        /*bloog start*/
+        .bloog {
+        padding-top: 60px;
+        padding-bottom: 70px;
+        }
+        .b_h1 {
+        margin-bottom: 10px;
+        }
+        .bloog_item {
+        margin-top: 40px;
+        text-align: center;
+        }
+        .b_para {
+        font-size: 16px;
+        }
+        /*contact start*/
+         .contact{
+        padding-top: 60px;
+        padding-bottom: 80px;
+         }
+         .news_content {
+        margin: 0;
+        text-align: center;
+        }
+        .news_h1{
+        margin-bottom: 20px;
+        font-size: 60px;
+         }
+        .news_p{
+        margin-bottom: 20px;
+        padding: 0;
+        font-size: 25px;
+        }
+        .contact_form {
+        margin-top: 40px;
+        padding: 25px;
+        }
+        .last_form {
+        margin-bottom: 25px;
+        }
+        .box_icon {
+        margin: 0;
+        text-align: center;
+        }
+        .box_p {
+        margin-top: 15px;
+        text-align: center;
+        }
+        /*maps start*/
+        .maps {
+        padding-top: 40px;
+        padding-bottom: 50px;
+        }
+        .maps_h1{
+            font-size: 55px;
+        }
+        .maps_img {
+        margin-top: 15px;
+        }
+        .maps_p {
+        margin-top: 40px;
+        font-size: 25px;
+        }
+        /*footer start*/
+        .logo2 img {
+        width: 55%;
+        }
+        .ft_content {
+        margin-top: 50px;
+        }
+        .ft_content p a {
+        font-size: 22px;
+        }
+        .title {
+        font-size: 18px;
+       }
+       .c_shape {
+        margin-top: 40px;
+        margin-bottom: 40px;
+        }
+        .bottom_left {
+        text-align: center;
+        }
+       .social_icon {
+        text-align: center;
+       }
+       .social_icon ul li span a {
+        font-size: 13px;
+        margin-left: 5px;
+        }
+}
+     
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+        /*header start*/
+        header {
+            padding: 5px;
+    
+        }
+        .menu ul li a{
+            margin: 0;
+            font-size: 20px;
+        }
+	   /*banner start*/
+        .banner{
+            padding-top: 70px;
+            padding-bottom: 80px;
+        }
+        .left_content{
+            margin-top: 15px !important;
+            text-align: center;
+            margin: 0;
+        }
+        .left_h1 {
+            font-size: 70px;
+        }
+        .btn_common{
+            margin-top: 15px !important;
+        }
+        .b_img{
+            padding: 0 50px;
+        }
+        /*team start*/
+        .team {
+            padding-top: 60px;
+            padding-bottom: 70px;
+        }
+        .t_h1{
+            margin-bottom: 40px;
+        }
+        /*about start*/
+        .about{
+            padding-top: 60px;
+            padding-bottom: 50px;
+        }
+        .a_h1{
+            margin-bottom: 5px;
+        }
+        .a_p{
+        padding: 0;
+        }
+        .a_img {
+            margin: 0;
+         }
+        .t_btn{
+            margin-top: 20px;
+        }
+        /*complete start*/
+        .complete {
+        padding-top: 5px;
+        }
+        .c_img{
+            padding: 0 20px;
+        }
+        .c_content {
+        margin-top: 50px;
+        text-align: center;
+        }
+        .c_h1 {
+        font-size: 60px;
+        }
+        .c_para{
+            padding: 0;
+            font-size: 25px;
+        }
+        /*training start*/
+        .training {
+        padding-top: 50px;
+        padding-bottom: 70px;
+        }
+        .tr_content {
+        margin-top: 35px;
+        text-align: center;
+    
+        }
+        .tr_h1 {
+        font-size: 60px;
+        }
+        .tr_p {
+        padding:0;
+        font-size: 25px;
+        
+        }
+        .tr_img {
+        padding: 0 30px;
+        }
+        /*bloog start*/
+        .bloog {
+        padding-top: 60px;
+        padding-bottom: 70px;
+        }
+        .b_h1 {
+        margin-bottom: 10px;
+        }
+        .bloog_item {
+        margin-top: 40px;
+        text-align: center;
+        }
+        .b_para {
+        font-size: 16px;
+        }
+         /*contact start*/
+         .contact{
+        padding-top: 70px;
+        padding-bottom: 90px;
+         }
+         .news_content {
+        margin: 0;
+        text-align: center;
+        }
+        .news_h1{
+        margin-bottom: 20px;
+        font-size: 60px;
+         }
+        .news_p{
+        margin-bottom: 20px;
+        padding: 0;
+        font-size: 25px;
+        }
+        .contact_form {
+        margin-top: 40px;
+        padding: 25px;
+        }
+        /*maps start*/
+        .maps {
+        padding-top: 50px;
+        padding-bottom: 60px;
+        }
+        .maps_h1{
+            font-size: 55px;
+        }
+        .maps_img {
+        margin-top: 25px;
+        }
+        .maps_p {
+        margin-top: 50px;
+        font-size: 30px;
+        }
+        /*footer start*/
+        .logo2 img {
+        width: 32%;
+        }
+        .ft_content p a {
+        font-size: 22px;
+        }
+        .title {
+        font-size: 18px;
+       }
+       .social_icon {
+        text-align: left;
+       }
+       .social_icon ul li span a {
+        font-size: 13px;
+        margin-left: 5px;
+        }
+
+     
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+        /*header start*/
+        .menu ul li a{
+            margin: 0;
+        }
+	    /*banner start*/
+        .banner{
+            padding-top: 70px;
+            padding-bottom: 80px;
+        }
+        .left_content{
+            margin: 0;
+        }
+        .left_h1 {
+            font-size: 60px;
+        }
+        /*team start*/
+        .team {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        }
+        .t_h1 {
+            margin-bottom: 45px;
+       
+        }
+        /*complete start*/
+        
+        .complete {
+        padding-top: 5px;
+        }
+        .c_img{
+            padding: 0;
+        }
+        .c_content {
+        margin-top: 25px;
+        text-align: right;
+        }
+        .c_h1 {
+        font-size: 55px;
+        }
+        .c_para{
+            padding: 0;
+            font-size: 25px;
+        }
+        .c_btn{
+            margin-top: 15px;
+        }
+        /*training start*/
+        .training {
+        padding-top: 70px;
+        padding-bottom: 90px;
+        }
+        .tr_content {
+        margin: 0;
+        }
+        .tr_h1 {
+        font-size: 55px;
+        }
+        .tr_p {
+        padding:0;
+        font-size: 20px;
+        
+        }
+        /*bloog start*/
+        .bloog {
+        padding-top: 70px;
+        padding-bottom: 80px;
+        }
+        .b_h1 {
+        margin-bottom: 10px;
+        }
+        .bloog_item {
+        margin-top: 40px;
+        text-align: center;
+        }
+        .b_para {
+        font-size: 20px;
+        }
+         /*contact start*/
+        .contact{
+        padding-top: 70px;
+        padding-bottom: 90px;
+         }
+        .news_h1{
+        margin-bottom: 20px;
+        font-size: 60px;
+         }
+        .news_p{
+        margin-bottom: 20px;
+        padding: 0;
+        font-size: 25px;
+        }
+        .contact_form {
+        padding: 10px;
+        }
+        /*maps start*/
+        .maps {
+        padding-top: 50px;
+        padding-bottom: 60px;
+        }
+        /*footer start*/
+        .logo2 img {
+        width: 25%;
+        }
+}
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*banner start*/
+    .left_h1{
+        font-size: 60px;
+    }
+    .btn_common{
+        margin-top: 20px;
+    }
+    /*about start*/
+    .a_p{
+        padding: 0;
+    }
+    /*complete start*/
+    .c_content {
+    margin-top: 60px;
+    }
+    .c_h1{
+        font-size: 67px;
+    }
+    .c_para{
+        font-size: 28px;
+    }
+    /*training start*/
+    .tr_content {
+    margin-top: 25px;
+    }
+    .tr_h1 {
+    font-size: 60px;
+    }
+    .tr_p {
+    font-size: 25px;
+    }
+    /*bloog start*/
+    .b_h2{
+        font-size: 40px;
+    }
+    .b_para {
+    font-size: 14px;
+    }
+    /*contact start*/
+    .news_p{
+        padding: 0;
+    }
+    /*maps start*/
+    .maps_p {
+    font-size: 32px;
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /*complete start*/
+    .c_content {
+    margin-top: 50px;
+    }
+    .c_h1{
+        font-size: 80px;
+    }
+    /*training start*/
+    .tr_content {
+    margin-top: 50px;
+    }
+    .tr_h1 {
+    font-size: 65px;
+    }
+    .tr_p {
+    font-size: 30px;
+    }
+    /*bloog start*/
+    .b_para{
+        font-size: 12px;
+    }
+
+
+}
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+     
+    
+}
